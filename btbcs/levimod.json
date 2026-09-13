@@ -17,10 +17,8 @@
       "QoL"
     ]
   },
-  "release_assets": {
-    "include": [
-      "*.levipack",
-      "*.so"
-    ]
+  "download": {
+   "type": "browser",
+    "url": "https://www.mediafire.com/file/0v7ogalh48wsvnz/BTBCS.levipack/file"
   }
 }
