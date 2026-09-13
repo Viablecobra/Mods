@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "id": "uvt",
-  "version": "4.2.0",
+  "version": "1.2.0",
   "minecraft_versions": [
     "1.26.xx.x"
   ],
@@ -17,10 +17,8 @@
       "QoL"
     ]
   },
-  "release_assets": {
-    "include": [
-      "*.levipack",
-      "*.so"
-    ]
+  "download": {
+   "type": "browser",
+    "url": "https://www.mediafire.com/file/hnw6fbaaqm975os/libUnViableTweaksV2.3.levipack/file"
   }
 }
