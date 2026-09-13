@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "id": "btbcs",
+  "version": "1.2.0",
+  "minecraft_versions": [
+    "1.26.45.1"
+  ],
+  "published_at": "2026-09-13T07:14:18Z",
+  "info": {
+    "name": "BetterTouchButtonsCustomizeScreen",
+    "author": "VCX",
+    "description": "Makes your Button's Size to Max 500% and Opacity to min 0%",
+    "homepage_url": "https://github.com/Viablecobra/Mods",
+    "icon": "assets/icon.png",
+    "tags": [
+      "Utility",
+      "QoL"
+    ]
+  },
+  "release_assets": {
+    "include": [
+      "*.levipack",
+      "*.so"
+    ]
+  }
+}
