@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
   "id": "btbcs",
-  "version": "1.2.0",
+  "version": "4.3.0",
   "minecraft_versions": [
-    "1.26.45.1"
+    "1.26.50.1"
   ],
-  "published_at": "2026-09-13T07:14:18Z",
+  "published_at": "2026-09-15T18:30:00Z",
   "info": {
     "name": "BetterTouchButtonsCustomizeScreen",
     "author": "VCX",
@@ -19,6 +19,6 @@
   },
   "download": {
    "type": "browser",
-    "url": "https://www.mediafire.com/file/0v7ogalh48wsvnz/BTBCS.levipack/file"
+    "url": "https://www.mediafire.com/file/lg82zrfjn8wv8an/BTBCS.levipack/file"
   }
 }
