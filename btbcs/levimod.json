@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "id": "btbcs",
-  "version": "4.3.0",
+  "version": "4.4.0",
   "minecraft_versions": [
-    "1.26.50.4"
+    "1.26.51.1"
   ],
   "published_at": "2026-09-15T18:20:00Z",
   "info": {
@@ -19,6 +19,6 @@
   },
   "download": {
    "type": "browser",
-    "url": "https://www.mediafire.com/file/lg82zrfjn8wv8an/BTBCS.levipack/file"
+    "url": "https://www.mediafire.com/file/rkfteb44n1x0ixc/BTBCS.levipack/file"
   }
 }
